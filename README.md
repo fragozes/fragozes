@@ -2,7 +2,12 @@
 <h3 align="center">Cloud DevOps Engineer | Python | AWS | Security</h3>
 
 <p align="center">
-I was born in the Amazon, Brazil — a place that makes you curious about how things work just by being there. My sister started studying robotics, and that curiosity turned into something more specific: I wanted to know how computers worked, how things were built, what was happening underneath. I studied hard to get into the same technology institute she attended, and ended up in Computer Science and IT Engineering. That experience kept me hungry — not just to understand systems, but to build things that actually help people.
+I'm a DevOps and Software Engineer with over 6 years in IT. 
+From a young age I was always curious about how things work, 
+especially technology. That curiosity became my career and 
+my hobby at the same time — because there is always something 
+new to learn, explore, and build. Something that can actually 
+change people's lives.
 </p>
 
 ---
