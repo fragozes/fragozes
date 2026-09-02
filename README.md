@@ -18,7 +18,7 @@ change people's lives.
 - 🎓 Computer Science & IT Engineering — IFAM, Federal Institute of Amazonas, Brazil (2017)
 - ☁️ Software Engineering and Cloud DevOps Bootcamp — Makers Academy, London (2026)
 - 🛠️ Focused on cloud infrastructure, CI/CD pipelines, security testing and backend development
-- 🤖 Building personal AI-powered projects with Claude (Anthropic)
+- 🤖 Building personal AI-powered
 - 📫 eduardofragozes.0826@gmail.com
 
 ---
