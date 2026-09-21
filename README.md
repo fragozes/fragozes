@@ -2,12 +2,7 @@
 <h3 align="center">Cloud DevOps Engineer | Python | AWS | Security</h3>
 
 <p align="center">
-I'm a DevOps and Software Engineer with over 6 years in IT. 
-From a young age I was always curious about how things work, 
-especially technology. That curiosity became my career and 
-my hobby at the same time — because there is always something 
-new to learn, explore, and build. Something that can actually 
-change people's lives.
+I've been in IT for over 6 years, working as a DevOps and Software Engineer. I got curious about how things work as a kid, technology especially, and that curiosity never really went away. It just turned into a job. There's always something new to learn or build, and that's what keeps me in it.
 </p>
 
 ---
