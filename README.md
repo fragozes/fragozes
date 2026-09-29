@@ -130,7 +130,7 @@ An automated deployment pipeline: GitHub push → S3 → CodeDeploy → EC2.
 
 ## 🤖 Currently Building
 
-- **Céu** — a personal AI assistant, exploring how AI can fit into daily workflows and productivity. No public repo yet.
+- **Assemble** — a personal AI assistant, exploring how AI can fit into daily workflows and productivity. No public repo yet.
 - Experimenting with AI-assisted development across all my projects, using different AI tools as coding and architecture partners.
 
 ---
