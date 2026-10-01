@@ -13,7 +13,10 @@ I've been in IT for over 6 years, working as a DevOps and Software Engineer. I g
 - 🎓 Computer Science & IT Engineering — IFAM, Federal Institute of Amazonas, Brazil (2017)
 - ☁️ Software Engineering and Cloud DevOps Bootcamp — Makers Academy, London (2026)
 - 🛠️ Focused on cloud infrastructure, CI/CD pipelines, security testing and backend development
-- 🤖 Building personal AI-powered
+- 🤖 Building **Assemble**, a personal AI assistant that runs on my own machine
+  - It answers from my own Obsidian notes using a local model (Ollama + RAG), and draws them as a live knowledge graph
+  - The agent can edit files, but only after I approve each change. Every action goes into a hash-chained audit log
+  - Around 1,800 automated tests, and CI spins up the real backend on every pull request
 - 📫 eduardofragozes.0826@gmail.com
 
 ---
