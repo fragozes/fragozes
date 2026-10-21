@@ -2,7 +2,7 @@
 <h3 align="center">Cloud DevOps Engineer | Python | AWS | Security</h3>
 
 <p align="center">
-I've been in IT for over 6 years, working as a DevOps and Software Engineer. I got curious about how things work as a kid, technology especially, and that curiosity never really went away. It just turned into a job. There's always something new to learn or build, and that's what keeps me in it.
+I spent nearly 4 years in IT support and team leadership, and in 2026 I trained as a software and cloud DevOps engineer at Makers Academy. I got curious about how things work as a kid, technology especially, and that curiosity never really went away. It just turned into a job. There's always something new to learn or build, and that's what keeps me in it.
 </p>
 
 ---
@@ -10,13 +10,13 @@ I've been in IT for over 6 years, working as a DevOps and Software Engineer. I g
 ## 👨‍💻 About Me
 
 - 🇧🇷 Based in London, UK
-- 🎓 Computer Science & IT Engineering — IFAM, Federal Institute of Amazonas, Brazil (2017)
-- ☁️ Software Engineering and Cloud DevOps Bootcamp — Makers Academy, London (2026)
+- 🎓 Technical Secondary Education in Computer Science and IT, IFAM, Federal Institute of Amazonas, Brazil (2017)
+- ☁️ Software Engineering and Cloud DevOps Bootcamp, Makers Academy, London (2026)
 - 🛠️ Focused on cloud infrastructure, CI/CD pipelines, security testing and backend development
 - 🤖 Building **Assemble**, a personal AI assistant that runs on my own machine
   - It answers from my own Obsidian notes using a local model (Ollama + RAG), and draws them as a live knowledge graph
   - The agent can edit files, but only after I approve each change. Every action goes into a hash-chained audit log
-  - Around 1,800 automated tests, and CI spins up the real backend on every pull request
+  - Over 2,700 automated backend tests, and CI spins up the real backend on every pull request
 - 📫 eduardofragozes.0826@gmail.com
 
 ---
@@ -87,6 +87,16 @@ I've been in IT for over 6 years, working as a DevOps and Software Engineer. I g
 
 ## 📁 Projects
 
+### 📚 [Book Store](https://github.com/fragozes/Cloud_Applications)
+A solo Flask project from the Makers bootcamp, deployed to AWS.
+- Books and films with PostgreSQL and the repository pattern, sign-up and login
+- Unit tests in pytest and browser tests in Playwright
+- The app and its database in Docker containers, deployed to EC2 by a GitHub Actions pipeline with the credentials in GitHub Secrets
+
+**Stack:** Python, Flask, PostgreSQL, Docker, pytest, Playwright, GitHub Actions, AWS EC2
+
+---
+
 ### 🔒 [Juice Shop Security Audit](https://github.com/fragozes/juice-shop)
 Security research on OWASP Juice Shop, a web app built on purpose to be vulnerable.
 - Found and fixed vulnerabilities including SQL Injection, XSS, IDOR and authentication bypass
@@ -96,7 +106,7 @@ Security research on OWASP Juice Shop, a web app built on purpose to be vulnerab
 
 ---
 
-### 🏥 [Operação HOSP — Reliability & Security Infrastructure](https://github.com/sgsmi/07-reliability)
+### 🏥 Operação HOSP: Reliability & Security Infrastructure (private team repository)
 A 2-week team project: production-grade reliability and security infrastructure built around a legacy veterinary hospital system.
 - NGINX reverse proxy with retry logic, caching and rate limiting
 - AWS WAF, HTTPS/TLS and audit logging with NGINX njs
@@ -106,16 +116,16 @@ A 2-week team project: production-grade reliability and security infrastructure 
 
 ---
 
-### 🐾 [Poochie Pals — Security Audit](https://github.com/Kart3y/makers_project_team_2)
+### 🐾 Poochie Pals: Security Audit (private team repository)
 A full security audit combining SAST, DAST, manual pentesting and an AWS infrastructure review.
-- Found 20+ vulnerabilities, including a SQL Injection PoC, XSS, IDOR, CSRF, hardcoded secrets and IAM over-permissions
+- Found 20 vulnerabilities, including a SQL Injection PoC, XSS, IDOR, CSRF, hardcoded secrets and IAM over-permissions
 - Applied STRIDE threat modelling to map out attack surfaces
 
 **Stack:** Bearer (SAST), OWASP ZAP (DAST), AWS IAM, Security Groups
 
 ---
 
-### ☸️ [Metapod — Kubernetes Deployment](https://github.com/Duncan5161/metapod_project)
+### ☸️ Metapod: Kubernetes Deployment (private team repository)
 A team project deploying a containerised application to AWS EKS.
 - Managed Kubernetes workloads with kubectl and K3d locally
 
@@ -123,7 +133,7 @@ A team project deploying a containerised application to AWS EKS.
 
 ---
 
-### ⚙️ [CI/CD Pipeline — GitHub Actions](https://github.com/fragozes/GitHub_Actions_team_IanB_luiz)
+### ⚙️ [CI/CD Pipeline: GitHub Actions](https://github.com/fragozes/GitHub_Actions_team_IanB_luiz)
 An automated deployment pipeline: GitHub push → S3 → CodeDeploy → EC2.
 - Set up rolling deployments for a Node.js/Express application
 
@@ -133,7 +143,7 @@ An automated deployment pipeline: GitHub push → S3 → CodeDeploy → EC2.
 
 ## 🤖 Currently Building
 
-- **Assemble** — a personal AI assistant, exploring how AI can fit into daily workflows and productivity. No public repo yet.
+- **Assemble**, a personal AI assistant, exploring how AI can fit into daily workflows and productivity. No public repo yet.
 - Experimenting with AI-assisted development across all my projects, using different AI tools as coding and architecture partners.
 
 ---
